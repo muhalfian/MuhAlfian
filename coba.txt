@@ -5,3 +5,5 @@ Ini lho line ketiga
 Ini lho yang keempat
 
 Ini bagian dari dev.
+
+Ini bagian dari dev kedua.
